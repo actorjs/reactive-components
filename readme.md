@@ -9,7 +9,7 @@ Reactive components is a set of UI Input components which can be used to build w
 
 There are different type of components. The internal state 
 
-**Boolean Component  **
+**Boolean Component**  
 Test
 
 String Component
